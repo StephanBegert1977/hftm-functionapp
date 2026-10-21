@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "PictureProcessor": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7089",
+      "launchBrowser": false,
+      "environmentVariables": {
+        "AZURE_FUNCTIONS_ENVIRONMENT": "Production"
+      }
+    }
+  }
+}
